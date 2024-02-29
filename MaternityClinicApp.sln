@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MaternityClinicApp", "MaternityClinicApp.vbproj", "{0C1074BB-CF26-4529-810D-2ACFF24D132E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C1074BB-CF26-4529-810D-2ACFF24D132E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1074BB-CF26-4529-810D-2ACFF24D132E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1074BB-CF26-4529-810D-2ACFF24D132E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1074BB-CF26-4529-810D-2ACFF24D132E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D26FAA-6818-4D39-B8CC-34EAA5DF7484}
+	EndGlobalSection
+EndGlobal
